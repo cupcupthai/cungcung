@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:7
+#EXTINF:8.341667,
+https://dl.dropbox.com/s/tnghq9hwskfsw5q/lagu.ts
+#EXTINF:8.341667,
+https://dl.dropbox.com/s/tnghq9hwskfsw5q/lagu.ts
+#EXTINF:8.341667,
+https://dl.dropbox.com/s/tnghq9hwskfsw5q/lagu.ts
+#EXTINF:8.341667,
+https://dl.dropbox.com/s/tnghq9hwskfsw5q/lagu.ts
+#EXTINF:1.167833,
+https://dl.dropbox.com/s/tnghq9hwskfsw5q/lagu.ts
+#EXT-X-ENDLIST
