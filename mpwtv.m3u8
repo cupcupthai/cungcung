@@ -26,15 +26,8 @@ https://live2.pro2cdnlive.com/live/channel5.m3u8
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia U-19 vs Vietnam U-19 CH2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=dash
-
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia U-19 vs Vietnam U-19 CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e
-https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4MTI2MDAyNSwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3ODA2NTUyMjUsIm5iZiI6MTc4MDY1NTIyNSwidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.EdrRSkC4bSUrafzSXbWkokitJSiXD4II_RonmdEuqEM/live/tencent-1-drm-dash/main.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=dash
 
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
