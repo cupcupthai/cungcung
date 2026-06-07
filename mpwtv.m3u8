@@ -18,11 +18,16 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=drm
 #https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=dash
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA VS OMAN CH 2
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia U-19 vs Vietnam U-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live2.pro2cdnlive.com/live/channel9.m3u8
+https://live2.pro2cdnlive.com/live/channel5.m3u8
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia U-19 vs Vietnam U-19 CH2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=dash
 
 
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
