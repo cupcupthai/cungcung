@@ -13,7 +13,6 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia vs Mozambique
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
@@ -24,6 +23,13 @@ https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=97fd614a221a0556dcca1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=21610&type=dash
+
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia vs Mozambique ch3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratu77.adptv.workers.dev/index.mpd?id=21610&type=drm
+https://ratu77.adptv.workers.dev/index.mpd?id=21610&type=dash
 
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
