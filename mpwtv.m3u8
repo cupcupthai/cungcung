@@ -24,6 +24,11 @@ https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=97fd614a221a0556dcca1
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live05.msdht.app/live/14707124.m3u8
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia vs Mozambique ch2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://tfwh1gr3uomttgr31hctwgazdnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c8dd0dd8cb512814df6edf0a-178066467428487&wsIPSercert=4df3b93771ae731a8c0783f974489d37&wsBindIP=2&wsserid=1168168151566392375
+
+
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
