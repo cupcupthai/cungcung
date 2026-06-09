@@ -139,7 +139,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR
-https://indihuy.streamized.net/atm/DASH/indosiar//manifest.mpd
+http://cdnbal1.indihometv.com/atm/DASH/indosiar//manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
