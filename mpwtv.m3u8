@@ -24,9 +24,9 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS 
 https://live05.msdht.app/live/14707124.m3u8
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", 20:00 WIB Indonesia vs Mozambique ch2
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://tfwh1gr3uomttgr31hctwgazdnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c8dd0dd8cb512814df6edf0a-178066467428487&wsIPSercert=4df3b93771ae731a8c0783f974489d37&wsBindIP=2&wsserid=1168168151566392375
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5450309_1.m3u8?auth_key=1781096531-0-0-39632c24dcffa7a0872b915c475523e3
 
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
