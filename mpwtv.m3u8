@@ -23,7 +23,7 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-https://ayo.maling.pl/m3u/TOKEN/21672.mpd
+https://ayo.maling.pl/m3u/TOKEN/21633.mpd
 
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
