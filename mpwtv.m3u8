@@ -19,7 +19,10 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jtBx3b5EXa9-Ruh7gdBJsKQWX8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg" group-title="TIMNAS", INDONESIA VS AUSTRALIA CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pop17-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjAwNDcwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8zNzkvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlNjExNTMzMTg0ODNiYTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI2OCIsInNvdXJjZXMiOlszNDYsNDkwLDQ5Myw0OTVdfQ==.3Z2kpx7Ye1Bp1gW2gmQkiVi8uwxp4LeOZGIRMp-hz_0BpmXTi_datMIycAdAk6pwAQnjrPX7eYAp0MtIHBU3Uw==/live/eds/379/HLS_Clean_MHL_2s/379-avc1_1000000=10000-mp4a_206000_eng=20000.m3u8
+#EXTVLCOPT:http-origin=https://lxscore.com
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+https://stream.titanlivescore.com/live/default-107494.m3u8
+
 #EXTINF:-1 group-title="World Cup 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", WC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
