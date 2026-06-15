@@ -6,10 +6,10 @@
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
-https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/sd-6MvZ6BDhJNZjHVQJTf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jtBx3b5EXa9-Ruh7gdBJsKQWX8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg" group-title="TIMNAS", INDONESIA VS AUSTRALIA CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
