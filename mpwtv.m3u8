@@ -3,9 +3,8 @@
 https://cdn-tt.pages.dev/ch1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", PIALA DUNIA CH1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
