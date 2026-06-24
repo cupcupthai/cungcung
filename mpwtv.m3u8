@@ -14,7 +14,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
 #EXTINF:-1 group-title="PIALA DUNIA 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", PIALA DUNIA CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+http://114.130.57.233:8080/Somoy-TV-3Mb/index.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="PIALA DUNIA 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", PIALA DUNIA CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
