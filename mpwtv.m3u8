@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="âš½ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
-https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+https://cdn-tt.pages.dev/ch1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
