@@ -27,8 +27,8 @@ https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.
 
 #EXTINF:-1 group-title="PIALA DUNIA 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", PIALA DUNIA CH5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3c91e7a2d844a5bb8f16e2d9c7a4f13:9b3045bcf35b0a6ccfdd992fd9e5bd9b
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT", PROLIGA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
