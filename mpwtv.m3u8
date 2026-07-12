@@ -2420,7 +2420,9 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dTVi" tvg-logo="https://i.ibb.co.com/v4S6g8Mx/dTVi.png" group-title="DAERAH",dTVi
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://e.siar.us/live/dtvi.m3u8
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
 
