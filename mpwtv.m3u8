@@ -272,7 +272,12 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 ====================================================SPORTS INDO==============
 =======================================
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg" group-title="SPORTS INDO", BADMINTOON
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2024/11/20/673d5ad565033-logo-baru-motogp_375_211.jpg" group-title="SPORTS INDO", MOTO GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/motogp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg" group-title="SPORTS INDO", BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
