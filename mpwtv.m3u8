@@ -40,8 +40,8 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc387/playlist.m3u8
 #EXTINF:-1 group-title="PIALA DUNIA 26™" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", PIALA DUNIA CH6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ea344c45385adeb64dfb0909e1d3157:c439ab27cde4a16e77e6a45a81ef5cb2
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/kan11/live.livx?indexMode&amp;dvr=7200000
+#KODIPROP:inputstream.adaptive.license_key=aa78205160ef4b5c972d5e815a8fe6e4:338b545591e45469e71dae3a8fb8dbb0
+https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT", PROLIGA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
