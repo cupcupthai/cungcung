@@ -95,9 +95,9 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 =======================================
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="NASIONAL", MOJI TV
-#EXTVLCOPT:http-referrer=https://www.panentv.com/
-#EXTVLCOPT:http-origin=https://www.panentv.com/
-https://cdn1.panensport.org/channel/500298550/index.m3u8
+#EXTVLCOPT:http-referrer=http://filex.cc:8080/
+#EXTVLCOPT:http-origin=http://filex.cc:8080/
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqUDREWHdFVHcvSkRpZi9NaW90bUhWWT0
 
 =======================================
 
