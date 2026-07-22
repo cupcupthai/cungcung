@@ -4,17 +4,14 @@
 http://mkctvnew.my.id/ceria.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
+https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://asset.tribunnews.com/6nLborRBVCd5Hn8vDg9hmRl8IZw=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/bangka/foto/bank/originals/Piala-AFF-2026-tayang-24-Juli26-Agustus-di-RCTI-GTV-dan-jadwal-Timnas-Indonesia.jpg", PIALA AFF CH1
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com/
 https://cdn1.panensport.org/channel/500157591/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
-#https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT", PROLIGA
@@ -244,8 +241,8 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/motogp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg" group-title="SPORTS INDO", BADMINTON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/ca45a03b3d53cdb369e64677de08363952eadcb1/AstroBadmintonB.m3u8
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://mkctvnew.my.id/ceria.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="SPORTS INDO", LIGA INDO
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
