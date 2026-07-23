@@ -8,7 +8,15 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 
-#EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://asset.tribunnews.com/6nLborRBVCd5Hn8vDg9hmRl8IZw=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/bangka/foto/bank/originals/Piala-AFF-2026-tayang-24-Juli26-Agustus-di-RCTI-GTV-dan-jadwal-Timnas-Indonesia.jpg", PIALA AFF CH1
+#EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH2
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com/
 https://cdn1.panensport.org/channel/500157591/index.m3u8
