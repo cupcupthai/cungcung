@@ -252,7 +252,7 @@ https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/motogp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg" group-title="SPORTS INDO", BADMINTON
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://mkctvnew.my.id/ceria.m3u8
+https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="SPORTS INDO", LIGA INDO
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
