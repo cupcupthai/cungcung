@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="âš½ gratis", tidak di perjual belikan
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
 #EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
