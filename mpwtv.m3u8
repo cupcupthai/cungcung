@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="âš½ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://timeshifting.rctiplus.id/live/eds/backup1/hft/backup1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://timeshifting.rctiplus.id/live/eds/backup2/hft/backup2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
@@ -10,9 +10,9 @@
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://timeshifting.rctiplus.id/live/eds/backup2/hft/backup2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://timeshifting.rctiplus.id/live/eds/backup1/hft/backup1.m3u8
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH2
 #EXTVLCOPT:http-user-agent=android-R+
