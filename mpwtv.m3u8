@@ -88,7 +88,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 
 =======================================
