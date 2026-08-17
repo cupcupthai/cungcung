@@ -12,6 +12,19 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="[World Badminton Championships] - COURT 1 SD • LIVE 10:30" tvg-logo="https://bwfworldchampionships.bwfbadminton.com/wp-content/uploads/sites/8/2026/08/WC2026_KV_Players-2_Digital-Media-GFX-Website_1180x500px.jpg" group-title="🔴 Live Event",[World Badminton Championships] - COURT 1 SD • LIVE 10:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://tfyi0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[World Badminton Championships] - COURT 2 SD • LIVE 10:30" tvg-logo="https://bwfworldchampionships.bwfbadminton.com/wp-content/uploads/sites/8/2026/08/WC2026_KV_Players-2_Digital-Media-GFX-Website_1180x500px.jpg" group-title="🔴 Live Event",[World Badminton Championships] - COURT 2 SD • LIVE 10:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://tfyi0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[World Badminton Championships] - COURT 3 SD • LIVE 10:30" tvg-logo="https://bwfworldchampionships.bwfbadminton.com/wp-content/uploads/sites/8/2026/08/WC2026_KV_Players-2_Digital-Media-GFX-Website_1180x500px.jpg" group-title="🔴 Live Event",[World Badminton Championships] - COURT 3 SD • LIVE 10:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://tfyi0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[World Badminton Championships] - COURT 4 SD • LIVE 10:30" tvg-logo="https://bwfworldchampionships.bwfbadminton.com/wp-content/uploads/sites/8/2026/08/WC2026_KV_Players-2_Digital-Media-GFX-Website_1180x500px.jpg" group-title="🔴 Live Event",[World Badminton Championships] - COURT 4 SD • LIVE 10:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://tfyi0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
+
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
