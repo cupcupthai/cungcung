@@ -8,10 +8,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/newmpd/TransTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv/smil:transtv/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[World Badminton Championships] - COURT 1 SD • LIVE 10:30" tvg-logo="https://bwfworldchampionships.bwfbadminton.com/wp-content/uploads/sites/8/2026/08/WC2026_KV_Players-2_Digital-Media-GFX-Website_1180x500px.jpg" group-title="🔴 Live Event",[World Badminton Championships] - COURT 1 SD • LIVE 10:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
