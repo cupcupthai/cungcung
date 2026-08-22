@@ -12,7 +12,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c2a/live/22231d40-9b33-11f1-aed2-8d6da8d75094.png" group-title="EVENT", 18.30 WIB HULL CITY VS MU
-https://damitv2.bonekoetv.workers.dev/play/channel/pl/2026-08-22/hul-mun/sky-sport-premier-league-de.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/33982309.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c14/live/3a2337e0-9b33-11f1-a291-b542ee92de7c.png" group-title="EVENT", 21.00 WIB EVERTON VS CHRISTAL PALACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
