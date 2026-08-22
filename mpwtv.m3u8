@@ -14,7 +14,40 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c2a/live/22231d40-9b33-11f1-aed2-8d6da8d75094.png" group-title="EVENT", 18.30 WIB HULL CITY VS MU
 https://damitv2.bonekoetv.workers.dev/play/channel/pl/2026-08-22/hul-mun/sky-sport-premier-league-de.m3u8
 
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c14/live/3a2337e0-9b33-11f1-a291-b542ee92de7c.png" group-title="EVENT", 21.00 WIB EVERTON VS CHRISTAL PALACE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/33982309.m3u8
 
+#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/eabed8ce399ccec3b43fd78d2fba26ad571dcabc719b3843e02341ac31b76dc2/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2Fbbb3a72291b8c0b9b9af30efeb0d764e.jpg" group-title="EVENT", 21.00 WIB IPSWICH VS SUNDERLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c0b/live/6f80b7a0-9b33-11f1-aed2-8d6da8d75094.png" group-title="EVENT", 21.00 WIB FOREST VS LEDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/97885009.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/5ZCdz1OOh-dJBxomBaSDR_DESKTOP/image.jpg" group-title="EVENT", 22.00 WIB SEVILLA VS BILBAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/mivMswaiaDnAarjBKlm67_DESKTOP/image.jpg" group-title="EVENT", 23.30 WIB BENFORT VS TOTENHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bcd9d7fc-9de3-4cb7-83ee-cbba0d93e465/1/BOXART-4X3/en-US/2560x1920.png" group-title="EVENT", 23.30 WIB UDINESE VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/59444581.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/serie-a-inter-vs-mon_3ac9e1c.jpg" group-title="EVENT", 23.30 WIB INTER VS MONZA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
