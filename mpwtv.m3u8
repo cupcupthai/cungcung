@@ -16,59 +16,6 @@ https://stream-cdn-box.xr3ed-edge.workers.dev/live/gZYX4J9yOYIwr2_AC6enJBzI6K4JZ
 #EXTVLCOPT:http-referrer=https://colatv99.live
 https://live05.meung.app/live/33982309.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/eabed8ce399ccec3b43fd78d2fba26ad571dcabc719b3843e02341ac31b76dc2/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2Fbbb3a72291b8c0b9b9af30efeb0d764e.jpg" group-title="EVENT", 21.00 WIB IPSWICH VS SUNDERLAND
-https://damitv2.bonekoetv.workers.dev/play/pl/2026-08-22/ips-sun.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c0b/live/6f80b7a0-9b33-11f1-aed2-8d6da8d75094.png" group-title="EVENT", 21.00 WIB FOREST VS LEDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/97885009.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/5ZCdz1OOh-dJBxomBaSDR_DESKTOP/image.jpg" group-title="EVENT", 22.00 WIB SEVILLA VS BILBAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/mivMswaiaDnAarjBKlm67_DESKTOP/image.jpg" group-title="EVENT", 23.30 WIB BENFORT VS TOTENHAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bcd9d7fc-9de3-4cb7-83ee-cbba0d93e465/1/BOXART-4X3/en-US/2560x1920.png" group-title="EVENT", 23.30 WIB UDINESE VS COMO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/59444581.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/serie-a-inter-vs-mon_3ac9e1c.jpg" group-title="EVENT", 23.30 WIB INTER VS MONZA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/events/401882907/16x9/1280x720_20260810222528.jpg" group-title="EVENT",Z. 00.30 WIB VALENCIA VS CELTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/07808742.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2026/01/14/2481396291866/SERIE_THMB_26_Genoa_Main_Napoli_Main_3711244_1920x1080.jpg" group-title="EVENT",Z. 01.45 WIB GENOA VS NAPOLI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2024/09/25/nhan-dinh-bong-da-du-doan-parma-vs-cagliari-vdqg-italia-serie-a-hom-nay-2509111546.jpg" group-title="EVENT",Z. 01.45 WIB PARMA VS CALAGRIARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/la-liga-espanyol-vs-_8becd45.jpg" group-title="EVENT",Z. 02.30 WIB ESPANYOL VS MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
@@ -148,11 +95,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 =======================================
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=8237&type=drm
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=8237
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 =======================================
 
@@ -859,8 +805,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 =======================================
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
