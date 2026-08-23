@@ -13,9 +13,10 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3d9/live/3c2037e0-9cc9-11f1-a291-b542ee92de7c.png" group-title="EVENT", 20.00 WIB CITY VS BOURNEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://colatv99.live
-https://live05.meung.app/live/78905744.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/763d/live/5372fb80-9cc9-11f1-b109-879e35c24276.png" group-title="EVENT", 20.00 WIB BRIGTON VS ASTON VILA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
