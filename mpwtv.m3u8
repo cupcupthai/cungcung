@@ -7,9 +7,9 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-referrer=https://damitv.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/gZYX4J9yOYIwr2_AC6enJBzI6K4JZ8AmMPeT_okipFrCbqKNrM4w-jFblzbi1X59B17IxwA.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c14/live/3a2337e0-9b33-11f1-a291-b542ee92de7c.png" group-title="EVENT", 21.00 WIB EVERTON VS CHRISTAL PALACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
