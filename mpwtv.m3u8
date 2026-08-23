@@ -17,10 +17,50 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://colatv99.live
 https://live05.meung.app/live/78905744.m3u8
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3d9/live/3c2037e0-9cc9-11f1-a291-b542ee92de7c.png" group-title="EVENT", 20.00 WIB BRIGTON VS ASTON VILA
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/763d/live/5372fb80-9cc9-11f1-b109-879e35c24276.png" group-title="EVENT", 20.00 WIB BRIGTON VS ASTON VILA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://colatv99.live
 https://live05.meung.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1787338757Atl%C3%A9ticoMadridvsVillarrealPreviewLaLiga202627.png" group-title="EVENT", 22.00 WIB ATLICO VS VILAREAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/871c4bc8687fd210d18581b2e6f69ae5c951a16f28be773fc0565e2f6906d208/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F776dbf4ebe8911233672d4555f1e5d4f.jpg" group-title="EVENT", 22.30 WIB NEWCASTLE VS LIVERPOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://jakarta.akurat.co/_next/image?url=https%3A%2F%2Fakurat.sgp1.cdn.digitaloceanspaces.com%2Fimages%2F20260823-12315975426-0-73199.png&w=3840&q=100" group-title="EVENT", 23.30 WIB VENEZIA VS LECE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://jakarta.akurat.co/_next/image?url=https%3A%2F%2Fakurat.sgp1.cdn.digitaloceanspaces.com%2Fimages%2F20260823-12315975426-0-73199.png&w=3840&q=100" group-title="EVENT", 23.30 WIB JUVE VS FROSIONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.zenfs.com/en/playmakerstats_articles_264/9e94fb42f96be865f49ef8d8826715cd.jpg" group-title="EVENT",z 00.30 WIB GETAFE VS RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/16226575.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/events/401067885/16x9/1280x720_201905202235.jpg" group-title="EVENT",z 01.45 WIB ATLANTA VS SASULO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/59444581.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=88c12mkhvhyazi0vr4whrw20l_image-header_pDach_1738596532000&quality=70" group-title="EVENT",z 01.45 WIB TORINO VS MILAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/10/29/b53d6a29-7e0a-455b-bd5f-247ff79931e4/TIMEZONES-escuts-ELCHE.jpg" group-title="EVENT",z 02.30 WIB ELCE VS BARCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://colatv99.live
+https://live05.meung.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="PIALA AFF™" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/01/14/logo-piala-aff-2026-1768381280444_169.png?w=650&q=90", PIALA AFF CH1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
