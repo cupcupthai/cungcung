@@ -7,10 +7,9 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="âš½ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/763d/live/5372fb80-9cc9-11f1-b109-879e35c24276.png" group-title="EVENT", 20.00 WIB BRIGTON VS ASTON VILA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
