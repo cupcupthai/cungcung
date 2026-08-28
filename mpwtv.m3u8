@@ -60,7 +60,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-https://vidsemar.pages.dev/terraluna/204.mpd
+http://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 =======================================
 
@@ -70,7 +70,7 @@ https://vidsemar.pages.dev/terraluna/204.mpd
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 
 
@@ -92,11 +92,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL" tvg-id="ANTV",  ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=782&type=drm
-https://vidsemar.pages.dev/terraluna/782.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
 =======================================
