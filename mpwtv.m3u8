@@ -2098,7 +2098,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 =======================================
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-#https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://canal86.my.id/player/?id=indosiarvid1
+https://tv.canal86.my.id/vidiofree/indosiar1.m3u8
 
 =======================================
 
