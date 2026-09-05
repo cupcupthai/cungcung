@@ -237,7 +237,7 @@ http://live1.quickscoreboardz.com/live/channel60.m3u8
 #EXTVLCOPT:http-origin=https://livetv.rkda.my.id
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-M127F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-https://cdna.rkda.my.id/memfs/3897b566-43d7-4f1e-862b-1aa22932504a_output_0.m3u8
+https://cdnb.rkda.my.id/memfs/3897b566-43d7-4f1e-862b-1aa22932504a.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.skor.id/uploads/member/images/news/260113125650-259.jpg" group-title="SPORTS INDO", PROLIGA
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
