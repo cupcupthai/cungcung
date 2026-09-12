@@ -230,7 +230,7 @@ https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
 #EXTVLCOPT:http-origin=https://livetv.rkda.my.id
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-M127F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-cdna.rkda.my.id/memfs/dd9f8e0c-e618-416c-a79c-5e8f739e167d.m3u8
+https://cdna.rkda.my.id/memfs/dd9f8e0c-e618-416c-a79c-5e8f739e167d.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.skor.id/uploads/member/images/news/260113125650-259.jpg" group-title="SPORTS INDO", PROLIGA
 #EXT-X-TARGETDURATION:2
