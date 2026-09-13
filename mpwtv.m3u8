@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT", PROLIGA
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21254&type=drm
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=21254&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
+#https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT", PROLIGA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
