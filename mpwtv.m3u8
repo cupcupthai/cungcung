@@ -2070,12 +2070,12 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+http://tv.cloudcdn.me/live.ts?channelId=93773&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://bit.ly/RtmEpg" group-title="Malaysia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93774&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
@@ -2083,37 +2083,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628|referrer=https://rtmklik.rtm.gov.my/
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-=======================================
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-=======================================
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://canal86.my.id/player/?id=indosiarvid1
-https://tv.canal86.my.id/vidiofree/indosiar1.m3u8
-
-=======================================
-
-#EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
-#https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-#https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
@@ -2123,7 +2103,7 @@ https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 =======================================
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43
 
 =======================================
 
