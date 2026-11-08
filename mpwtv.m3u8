@@ -218,9 +218,7 @@ http://mkctvnew.my.id/cek2.flv
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="SPORTS INDO", LIGA INDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
+https://live.maalasror.sch.id/hls/g2mq-rmzp-ct7b-asu6-c8uz.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.skor.id/uploads/member/images/news/260113125650-259.jpg" group-title="SPORTS INDO", PROLIGA
 #EXT-X-TARGETDURATION:2
