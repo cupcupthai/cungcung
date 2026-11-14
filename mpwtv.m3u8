@@ -341,8 +341,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/DP40bmvB/SS2.png" group-title="SPORTS INDO",Sportstars 2 HD 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 =======================================
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://i.ibb.co.com/Qv9Fw7qD/SS3.png", Sportstars 3 hd
